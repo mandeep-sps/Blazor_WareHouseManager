@@ -1,0 +1,23 @@
+﻿<SatelliteAssembly>
+  <Assembly Name="obj\Debug\net5.0\de\WarehouseManger.Client.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="obj\Debug\net5.0\en\WarehouseManger.Client.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="obj\Debug\net5.0\es\WarehouseManger.Client.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="obj\Debug\net5.0\id\WarehouseManger.Client.resources.dll" Culture="id" DestinationSubDirectory="id\" />
+  <Assembly Name="obj\Debug\net5.0\it\WarehouseManger.Client.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="obj\Debug\net5.0\km\WarehouseManger.Client.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="obj\Debug\net5.0\ru\WarehouseManger.Client.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="obj\Debug\net5.0\sv\WarehouseManger.Client.resources.dll" Culture="sv" DestinationSubDirectory="sv\" />
+  <Assembly Name="obj\Debug\net5.0\fr\WarehouseManger.Client.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll" Culture="id" DestinationSubDirectory="id\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="D:\Repo\Git Code\src\Application\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll" Culture="sv" DestinationSubDirectory="sv\" />
+</SatelliteAssembly>

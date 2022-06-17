@@ -1,0 +1,434 @@
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Application.deps.json
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\WarehouseManger\src\Application\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Queries.Export.ExportBrandsQueryHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Queries.Export.ExportBrandsQueryHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.Delete.DeleteDocumentTypeCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.Delete.DeleteDocumentTypeCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Queries.Export.ExportDocumentTypesQueryHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Queries.Export.ExportDocumentTypesQueryHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportQueryHandler.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.fr.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.de.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.en.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.es.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.id.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.it.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.km.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.ru.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.sv.resources
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.csproj.GenerateResource.cache
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\refint\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Application\obj\Debug\net5.0\ref\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Application.deps.json
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\Git Code\src\Application\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.AddEdit.AddEditBrandCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Commands.Delete.DeleteBrandCommandHandler.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Queries.Export.ExportBrandsQueryHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Brands.Queries.Export.ExportBrandsQueryHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Dashboards.Queries.GetData.GetDashboardDataQueryHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.AddEdit.AddEditDocumentCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Documents.Commands.Delete.DeleteDocumentCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.Delete.DeleteDocumentTypeCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Commands.Delete.DeleteDocumentTypeCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Queries.Export.ExportDocumentTypesQueryHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.DocumentTypes.Queries.Export.ExportDocumentTypesQueryHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandLocalization.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Commands.Delete.DeleteExtendedAttributeCommandLocalization.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.ExtendedAttributes.Queries.Export.ExportExtendedAttributesQueryLocalization.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.AddEdit.AddEditProductCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Commands.Delete.DeleteProductCommandHandler.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportProductsQueryHandler.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Features.Products.Queries.Export.ExportQueryHandler.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Brands.Commands.AddEdit.AddEditBrandCommandValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Documents.Commands.AddEdit.AddEditDocumentCommandValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.DocumentTypes.Commands.AddEdit.AddEditDocumentTypeCommandValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.ExtendedAttributes.Commands.AddEdit.AddEditExtendedAttributeCommandValidatorLocalization.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Features.Products.Commands.AddEdit.AddEditProductCommandValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ChangePasswordRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ForgotPasswordRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RegisterRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.ResetPasswordRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.RoleRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.fr.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.TokenRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.de.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.en.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.es.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.id.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.it.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.km.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.ru.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.Resources.Validators.Requests.Identity.UpdateProfileRequestValidator.sv.resources
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.csproj.GenerateResource.cache
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\refint\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Application\obj\Debug\net5.0\ref\WarehouseManger.Application.dll

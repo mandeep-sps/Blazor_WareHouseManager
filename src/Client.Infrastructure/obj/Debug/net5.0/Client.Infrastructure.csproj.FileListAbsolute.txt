@@ -1,0 +1,84 @@
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.deps.json
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Identity.Authentication.AuthenticationManager.en.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Identity.Authentication.AuthenticationManager.ru.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.en.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.km.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.ru.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Preferences.ClientPreferenceManager.en.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Preferences.ClientPreferenceManager.ru.resources
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.GenerateResource.cache
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.CopyComplete
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\refint\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Client.Infrastructure\obj\Debug\net5.0\ref\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.deps.json
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Identity.Authentication.AuthenticationManager.en.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Identity.Authentication.AuthenticationManager.ru.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.en.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.km.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Interceptors.HttpInterceptorManager.ru.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Preferences.ClientPreferenceManager.en.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.Resources.Managers.Preferences.ClientPreferenceManager.ru.resources
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.GenerateResource.cache
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.AssemblyInfo.cs
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\Client.Infrastructure.csproj.CopyComplete
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\refint\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\Git Code\src\Client.Infrastructure\obj\Debug\net5.0\ref\WarehouseManger.Client.Infrastructure.dll

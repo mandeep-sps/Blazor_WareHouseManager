@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WarehouseManger.Shared</name>
+    </assembly>
+    <members>
+        <member name="M:WarehouseManger.Shared.Constants.Permission.Permissions.GetRegisteredPermissions">
+            <summary>
+            Returns a list of Permissions.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

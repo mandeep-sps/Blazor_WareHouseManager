@@ -1,0 +1,178 @@
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.deps.json
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.runtimeconfig.json
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.runtimeconfig.dev.json
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.DatabaseSeeder.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.DatabaseSeeder.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.de.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.es.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.fr.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.id.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.sv.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.en.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.it.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.km.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.ru.resources
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.GenerateResource.cache
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\refint\WarehouseManger.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+D:\Repo\WarehouseManger\src\Infrastructure\obj\Debug\net5.0\ref\WarehouseManger.Infrastructure.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.deps.json
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.runtimeconfig.json
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.runtimeconfig.dev.json
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.DatabaseSeeder.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.DatabaseSeeder.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.AuditService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ChatService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.ExcelService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.AccountService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.IdentityService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.de.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.es.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.fr.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.id.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleClaimService.sv.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.RoleService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.en.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.it.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.km.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.Resources.Services.Identity.UserService.ru.resources
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.GenerateResource.cache
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\refint\WarehouseManger.Infrastructure.dll
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+D:\Repo\Git Code\src\Infrastructure\obj\Debug\net5.0\ref\WarehouseManger.Infrastructure.dll

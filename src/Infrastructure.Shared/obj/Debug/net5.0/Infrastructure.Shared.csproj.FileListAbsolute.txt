@@ -1,0 +1,56 @@
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.deps.json
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\refint\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\WarehouseManger\src\Infrastructure.Shared\obj\Debug\net5.0\ref\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.deps.json
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\Infrastructure.Shared.csproj.CopyComplete
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\refint\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\Git Code\src\Infrastructure.Shared\obj\Debug\net5.0\ref\WarehouseManger.Infrastructure.Shared.dll

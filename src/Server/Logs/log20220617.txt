@@ -1,0 +1,46 @@
+2022-06-17 11:08:32.925 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:08:33.044 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:08:33.048 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:10:04.952 +05:30 [ERR] No recipients have been specified.
+2022-06-17 11:16:28.034 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:16:28.156 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:16:28.173 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:22:07.522 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:22:07.610 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:22:07.612 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:23:04.318 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:23:04.414 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:23:04.420 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:25:12.997 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:25:13.090 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:25:13.094 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:28:51.059 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:28:51.192 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:28:51.198 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:29:41.719 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:29:41.783 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:29:41.785 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:33:03.422 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:33:03.500 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:33:03.503 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:34:37.834 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:34:37.915 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:34:37.918 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 11:35:41.939 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 11:35:42.015 +05:30 [INF] Hosting environment: Development
+2022-06-17 11:35:42.018 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 12:32:01.652 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 12:32:01.740 +05:30 [INF] Hosting environment: Development
+2022-06-17 12:32:01.753 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 12:33:50.388 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 12:33:50.442 +05:30 [INF] Hosting environment: Development
+2022-06-17 12:33:50.444 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server
+2022-06-17 12:46:46.968 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 12:46:47.073 +05:30 [INF] Hosting environment: Development
+2022-06-17 12:46:47.085 +05:30 [INF] Content root path: D:\Repo\Git Code\src\Server
+2022-06-17 12:53:58.682 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 12:53:58.755 +05:30 [INF] Hosting environment: Development
+2022-06-17 12:53:58.758 +05:30 [INF] Content root path: D:\Repo\Git Code\src\Server
+2022-06-17 12:56:32.622 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-17 12:56:32.687 +05:30 [INF] Hosting environment: Development
+2022-06-17 12:56:32.689 +05:30 [INF] Content root path: D:\Repo\Git Code\src\Server

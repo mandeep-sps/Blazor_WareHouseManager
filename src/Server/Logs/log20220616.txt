@@ -1,0 +1,7 @@
+2022-06-16 19:07:53.928 +05:30 [INF] Seeded Administrator Role.
+2022-06-16 19:07:54.236 +05:30 [INF] Seeded Default SuperAdmin User.
+2022-06-16 19:07:54.982 +05:30 [INF] Seeded Basic Role.
+2022-06-16 19:07:55.015 +05:30 [INF] Seeded User with Basic Role.
+2022-06-16 19:07:55.123 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-16 19:07:55.123 +05:30 [INF] Hosting environment: Development
+2022-06-16 19:07:55.128 +05:30 [INF] Content root path: D:\Repo\WarehouseManger\src\Server

@@ -1,0 +1,428 @@
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Client.StaticWebAssets.xml
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\appsettings.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.StaticWebAssets.xml
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.exe
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.deps.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.runtimeconfig.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.runtimeconfig.dev.json
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Server.xml
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\en\WarehouseManger.Server.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Server.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\AutoMapper.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Blazored.FluentValidation.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Bunit.Core.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\EPPlus.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\FluentValidation.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Hangfire.Core.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Hangfire.SqlServer.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Humanizer.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\LazyCache.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\LazyCache.AspNetCore.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\MailKit.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\MediatR.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\MimeKit.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\MudBlazor.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Polly.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Polly.Extensions.Http.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\Toolbelt.Blazor.HttpClientInterceptor.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Client.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Client.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\de\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\en\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\es\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\id\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\it\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\km\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Client.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Localization.ServerCommonResources.en.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Localization.ServerCommonResources.ru.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Managers.Preferences.ServerPreferenceManager.en.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Managers.Preferences.ServerPreferenceManager.ru.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Startup.en.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Startup.ru.resources
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.csproj.GenerateResource.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\en\WarehouseManger.Server.resources.dll
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\ru\WarehouseManger.Server.resources.dll
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\scopedcss\bundle\WarehouseManger.Server.styles.css
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\staticwebassets\WarehouseManger.Server.StaticWebAssets.Manifest.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\staticwebassets\WarehouseManger.Server.StaticWebAssets.xml
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.RazorTargetAssemblyInfo.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.csproj.CopyComplete
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.dll
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\refint\WarehouseManger.Server.dll
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\WarehouseManger.Server.pdb
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
+D:\Repo\WarehouseManger\src\Server\obj\Debug\net5.0\ref\WarehouseManger.Server.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\appsettings.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Client.StaticWebAssets.xml
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.StaticWebAssets.xml
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.exe
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.deps.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.runtimeconfig.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.runtimeconfig.dev.json
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Server.xml
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\en\WarehouseManger.Server.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Server.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\AutoMapper.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Blazored.FluentValidation.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Bunit.Core.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\EPPlus.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\FluentValidation.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Hangfire.Core.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Hangfire.SqlServer.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Humanizer.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\LazyCache.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\LazyCache.AspNetCore.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\MailKit.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\MediatR.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\MimeKit.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\MudBlazor.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Polly.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Polly.Extensions.Http.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Enrichers.Environment.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\Toolbelt.Blazor.HttpClientInterceptor.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Application.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Client.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Domain.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Application.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.Shared.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Infrastructure.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Client.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Client.Infrastructure.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\de\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\en\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\es\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\id\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\it\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\km\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Application.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\de\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\en\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\es\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\id\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\it\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\km\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\de\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\en\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\es\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\fr\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\id\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\it\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\km\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\sv\WarehouseManger.Client.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\en\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\km\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\bin\Debug\net5.0\ru\WarehouseManger.Client.Infrastructure.resources.dll
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Localization.ServerCommonResources.en.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Localization.ServerCommonResources.ru.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Managers.Preferences.ServerPreferenceManager.en.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Managers.Preferences.ServerPreferenceManager.ru.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Startup.en.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.Resources.Startup.ru.resources
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.csproj.GenerateResource.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.AssemblyInfo.cs
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\en\WarehouseManger.Server.resources.dll
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\ru\WarehouseManger.Server.resources.dll
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\scopedcss\bundle\WarehouseManger.Server.styles.css
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\staticwebassets\WarehouseManger.Server.StaticWebAssets.Manifest.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\staticwebassets\WarehouseManger.Server.StaticWebAssets.xml
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.RazorTargetAssemblyInfo.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.csproj.CopyComplete
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.dll
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\refint\WarehouseManger.Server.dll
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\WarehouseManger.Server.pdb
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache
+D:\Repo\Git Code\src\Server\obj\Debug\net5.0\ref\WarehouseManger.Server.dll

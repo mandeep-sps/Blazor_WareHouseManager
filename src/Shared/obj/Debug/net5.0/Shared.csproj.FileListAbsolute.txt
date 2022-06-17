@@ -1,0 +1,24 @@
+D:\Repo\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.deps.json
+D:\Repo\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\refint\WarehouseManger.Shared.dll
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\WarehouseManger\src\Shared\obj\Debug\net5.0\ref\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.deps.json
+D:\Repo\Git Code\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\refint\WarehouseManger.Shared.dll
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.pdb
+D:\Repo\Git Code\src\Shared\obj\Debug\net5.0\ref\WarehouseManger.Shared.dll

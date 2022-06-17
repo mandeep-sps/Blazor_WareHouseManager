@@ -1,0 +1,45 @@
+name: dockercompose2372079534066887736
+services:
+  blazorhero:
+    build:
+      context: D:\Repo\WarehouseManger
+      dockerfile: src/Server/Dockerfile
+    container_name: blazorhero
+    depends_on:
+      db:
+        condition: service_started
+    environment:
+      ASPNETCORE_Kestrel__Certificates__Default__Password: securePassword123
+      ASPNETCORE_Kestrel__Certificates__Default__Path: /https/aspnetapp.pfx
+      ConnectionStrings__DefaultConnection: Server=db;Database=BlazorHero;User=sa;Password=Your_password123;MultipleActiveResultSets=true
+    image: blazorhero
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5005
+      published: "5005"
+      protocol: tcp
+    - mode: ingress
+      target: 5006
+      published: "5006"
+      protocol: tcp
+    restart: on-failure
+    volumes:
+    - type: bind
+      source: C:\Users\user\.aspnet\https
+      target: /https
+      read_only: true
+      bind:
+        create_host_path: true
+  db:
+    container_name: mssql
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Your_password123
+    image: mcr.microsoft.com/mssql/server
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose2372079534066887736_default
